@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 3.28h | 3 |
+| Week 1 | Tier 1 | 4.28h | 3 |
 
 ## Contents
 
 1. [2026-10-07 – ![images 1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/hj9IuZu2HToxwkIcTWuCd0qtbAwUD0cg/44bd814a3b1cf9e3220e64996720947acda7082e53103cd6f38ebea13c204f1d.jpg)](#2026-10-07-images-1httpshalflifehackclub-assetscomhackclub-h)
 2. [2026-10-08 – Work session](#2026-10-08-work-session)
-3. [2026-10-08 – I began working on the schem for the DIY yoto project Im making.](#2026-10-08-i-began-working-on-the-schem-for-the-diy-yoto-pro)
+3. [2026-10-08 – ![images 1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/hj9IuZu2HToxwkIcTWuCd0qtbAwUD0cg/44bd814a3b1cf9e3220e64996720947acda7082e53103cd6f38ebea13c204f1d.jpg)](#2026-10-08-images-1httpshalflifehackclub-assetscomhackclub-h)
 
 ## Design
 
@@ -57,9 +57,11 @@ Although I haven't done that much hardware, I have a basic idea and have partici
 
 [Timelapse](https://lookout.hackclub.com/api/media/fa001e7a-53c6-4d54-ac49-930c98521aa8/video.mp4)
 
-### 2026-10-08 – I began working on the schem for the DIY yoto project Im making.
+### 2026-10-08 – ![images 1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/hj9IuZu2HToxwkIcTWuCd0qtbAwUD0cg/44bd814a3b1cf9e3220e64996720947acda7082e53103cd6f38ebea13c204f1d.jpg)
 
-**2h**
+**3h**
+
+![images 1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/hj9IuZu2HToxwkIcTWuCd0qtbAwUD0cg/44bd814a3b1cf9e3220e64996720947acda7082e53103cd6f38ebea13c204f1d.jpg)
 
 I began working on the schem for the DIY yoto project Im making.
 So far, I have placed the required symbols, however Ive realized how long this was gonna take. for now, I'm using a

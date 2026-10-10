@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 11.28h | 4 |
+| Week 1 | Tier 1 | 12h | 4 |
 
 ## Contents
 
@@ -89,7 +89,7 @@ ule. In doing so, I realized what Mosi and Miso actually stand for :0
 
 ### 2026-10-09 – I began wiring the Schem! this had proved to be very annoying, as I had almost 12 different component symbols in my Schem. Eventually, I managed to wire most of the stuff, including the MAX98753A, the
 
-**7h**
+**7.72h**
 
 I began wiring the Schem! this had proved to be very annoying, as I had almost 12 different component symbols in my Schem. Eventually, I managed to wire most of the stuff, including the MAX98753A, the RFID reader module, the 2 rotary encoders and more. This is mainly because it was the easy stuff, as I kinda realized that the wiring for the power and speakers were going to be hard.
 
@@ -105,3 +105,5 @@ I began wiring the Schem! this had proved to be very annoying, as I had almost 1
 ![Screenshot 2026-10-09 at 11.05.16 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/hj9IuZu2HToxwkIcTWuCd0qtbAwUD0cg/dfc25c8f9a08ff126efde7aac7fde84a317804e943a7294ff9c2de6d69aad1c4.png)
 
 ![diy_yoto_wiring_map_usbc](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/hj9IuZu2HToxwkIcTWuCd0qtbAwUD0cg/39621a543fb8dd5a1ec51b7b247c03f10d82223d0ea43590c9adbef7ded7bbb3.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/hj9IuZu2HToxwkIcTWuCd0qtbAwUD0cg/698741b631417a716129c22f2f371767a433e7bfcec7dca2f2468485d7134c3d.png)

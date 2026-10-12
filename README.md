@@ -19,3 +19,4 @@ A pcb to wire it all together
 
 Although I haven't done that much hardware, I have a basic idea and have participated in hack club stardance, so I'm excited to work in this new club.
 
+<img width="902" height="484" alt="Screenshot 2026-10-11 at 3 55 24 PM" src="https://github.com/user-attachments/assets/cfd62956-0bad-4e1e-90dc-7a78d7a611f2" />

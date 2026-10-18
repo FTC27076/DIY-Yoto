@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-11T23:06:31.473Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvr7iec02wf01o9ub5yks5i). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > a music player that when it reads an RFID it will get the ID number and play the corresponding music/podcast/whatever
 

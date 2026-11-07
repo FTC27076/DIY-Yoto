@@ -1,3 +1,4 @@
+
 Hi, My name is mamoun and my project is basically a music player that has an rfid reader that when It connects to a card it gets the id and plays the audio file from a repo.
 I got this idea from one of my sister’s toys called a “yoto” it basically did what I just said and with the upcoming season of halflife, I thought, why not build something like a DIY yoto.
 
@@ -20,3 +21,4 @@ A pcb to wire it all together
 Although I haven't done that much hardware, I have a basic idea and have participated in hack club stardance, so I'm excited to work in this new club.
 
 <img width="902" height="484" alt="Screenshot 2026-10-11 at 3 55 24 PM" src="https://github.com/user-attachments/assets/cfd62956-0bad-4e1e-90dc-7a78d7a611f2" />
+<img width="951" height="480" alt="Screenshot 2026-11-07 at 6 45 02 PM" src="https://github.com/user-attachments/assets/26ca6cd4-47db-4c43-9ee8-7d9866b0da3c" />

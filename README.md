@@ -95,10 +95,9 @@ Costs are in USD for one player. Most unit prices are estimates, so check them i
 3. **Prepare the SD card.** Format it FAT32 and create a `/cards` folder.
 4. **Add a card.** Tap a blank card. The player creates `/cards/<card UID>/`. Copy MP3s into that folder (they play in alphabetical order), put the SD card back, and tap again.
 
-See `DiyYoto/README.md` for the full details.
 
-## Safety notes
 
-- Check the battery's red wire lines up with **+** on J3 before plugging in; some LiPos are wired backwards.
-- Mount the battery where it can't be bent or punctured.
-- Never connect either speaker wire to GND; the amp output is bridged.
+## Images of final design
+
+<img width="832" height="519" alt="Screenshot 2026-11-05 at 8 46 17 PM" src="https://github.com/user-attachments/assets/402a6c26-89a9-4785-9282-88bedbef2d59" />
+<img width="852" height="801" alt="Screenshot 2026-11-05 at 8 45 57 PM" src="https://github.com/user-attachments/assets/39659a93-bb64-4700-aa51-71a6b49c6291" />

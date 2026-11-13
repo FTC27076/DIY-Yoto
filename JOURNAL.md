@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 32h | 7 |
+| Week 1 | Tier 1 | 31.1h | 7 |
 
 ## Contents
 
@@ -156,7 +156,7 @@ when I made the first week PCB, I actually finished and changed it over time, so
 
 ### 2026-11-12: ![Screenshot 2026-11-12 at 7.26.18 PM](https://halflife.hackclub-assets.com/sessions/hj9IuZu2HToxwkIcTWuCd0qtbAwUD0cg/5ca1d044dcbd2c83bc426d187f63595e42eb73918228527830b6e3f7bac019d2.png)
 
-**9.9h**
+**9h**
 
 ![Screenshot 2026-11-12 at 7.26.18 PM](https://halflife.hackclub-assets.com/sessions/hj9IuZu2HToxwkIcTWuCd0qtbAwUD0cg/5ca1d044dcbd2c83bc426d187f63595e42eb73918228527830b6e3f7bac019d2.png)
 

@@ -1,0 +1,34 @@
+﻿Item,Qty,Supplier,Cost/item,Total Cost,link
+U2 – ESP32-S3-WROOM-1-N8R8 module (Espressif),1,DigiKey,4.50,4.50,https://www.digikey.ca/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N8R8/15295891
+"U1 – MCP1825S-3302E/AB 3.3V LDO, TO-220 (Microchip)",1,DigiKey,1.75,1.75,https://www.digikey.ca/en/products/result?keywords=MCP1825S-3302E%2FAB
+"R1, R2 – 100k 1/4W resistor (Stackpole CF14JT100K, cut tape)",2,DigiKey,0.10,0.20,https://www.digikey.ca/en/products/result?keywords=CF14JT100K
+"R3–R8 – 10k 1/4W resistor (Stackpole CF14JT10K0, cut tape)",6,DigiKey,0.10,0.60,https://www.digikey.ca/en/products/result?keywords=CF14JT10K0
+"R9, R10 – 5.1k 1/4W resistor (Stackpole CF14JT5K10, cut tape)",2,DigiKey,0.10,0.20,https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF14JT5K10/1830367
+"C1, C5 – 100µF 16V electrolytic (Panasonic EEU-FR1C101)",2,DigiKey,0.40,0.80,https://www.digikey.ca/en/products/detail/panasonic-industry/EEU-FR1C101/2433525
+"C2, C3, C9 – 10µF 25V ceramic, 5mm pitch (TDK FG28X5R1E106MRT06)",3,LCSC / JLC,0.20,0.60,https://www.lcsc.com/product-detail/C1620216.html
+"C4, C6, C7, C10 – 100nF 50V ceramic (KNSCHA 178MU0006)",4,LCSC / JLC,0.03,0.12,https://www.lcsc.com/product-detail/C5632430.html
+C8 – 1µF 50V ceramic (KNSCHA 178MU0010),1,LCSC / JLC,0.05,0.05,https://www.lcsc.com/product-detail/C5632434.html
+"SW2, SW3 – 6x6mm tactile switch, reset/boot (Omron B3F-1000)",2,DigiKey,0.35,0.70,https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/B3F-1000/33150
+"SW4, SW5 – rotary encoder with switch (Alps EC11E15244G1)",2,LCSC / JLC,1.50,3.00,https://www.lcsc.com/product-detail/C370970.html
+"J16 – USB-C receptacle, 16-pin (HRO TYPE-C-31-M-12)",1,LCSC / JLC,0.25,0.25,https://www.lcsc.com/product-detail/C165948.html
+"J3 – JST-PH 2-pin side-entry socket, battery (JST S2B-PH-K-S)",1,LCSC / JLC,0.10,0.10,https://www.lcsc.com/product-detail/C173752.html
+"J7 – JST-XH 2-pin socket, power switch (JST B2B-XH-A)",1,LCSC / JLC,0.05,0.05,https://www.lcsc.com/product-detail/C158012.html
+MOD1 – 1x8 2.54mm female header (BOOMELE),1,LCSC / JLC,0.10,0.10,https://www.lcsc.com/product-detail/C27438.html
+J12 (M1) – TP4056 USB-C charger module with protection (pack of 5),1,Amazon,8.00,8.00,https://www.amazon.ca/s?k=TP4056+type-c+protection+module
+J13 (M2) – MT3608 boost module (pack of 5),1,Amazon,8.00,8.00,https://www.amazon.ca/s?k=MT3608+boost+module
+J14 (M3) – Adafruit MAX98357A I2S amp breakout (3006),1,DigiKey,5.95,5.95,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/3006/6058477
+J15 (M4) – Adafruit micro SD SPI/SDIO breakout (4682),1,DigiKey,3.50,3.50,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4682/12822319
+MOD1 – RC522 RFID reader kit with card + fob (ProtoSupplies),1,ProtoSupplies,2.59,2.59,https://protosupplies.com/product/mfrc522-rfid-reader-key-card-and-key-ring/
+Header pins for M1/M2 – 1x40 break-away male header (BOOMELE),1,LCSC / JLC,0.15,0.15,https://www.lcsc.com/product-detail/C2337.html
+LiPo battery 3.7V 2000mAh with JST-PH (Adafruit 2011),1,DigiKey,12.50,12.50,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/2011/6612469
+Speaker 40mm 4Ω 3W (Adafruit 3968),1,DigiKey,4.95,4.95,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/3968/9745251
+Power switch – SPDT panel toggle 5A (E-Switch 100SP1T1B1M2QEH),1,DigiKey,4.50,4.50,https://www.digikey.ca/en/products/detail/e-switch/100SP1T1B1M2QEH/378821
+RFID cards – MIFARE Classic 1K (Adafruit 359),5,DigiKey,1.95,9.75,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/359/5353589
+micro SD card 16–32GB (SanDisk / Samsung),1,Amazon,8.00,8.00,https://www.amazon.ca/s?k=sandisk+32gb+microsd
+Optional – JST-XH plug housing for J7 (JST XHP-2),0,DigiKey,0.10,0.00,https://www.digikey.ca/en/products/detail/jst-sales-america-inc/XHP-2/555485
+"Optional – JST-XH crimp contacts (JST SXH-001T-P0.6, cut tape)",0,DigiKey,0.10,0.00,https://www.digikey.ca/en/products/detail/jst-sales-america-inc/SXH-001T-P0.6/455-1135-1-ND/527370
+
+Parts subtotal,,,,80.91,
+"Shipping and fees (JLC Global Direct Line to Mississauga $10 est., ProtoSupplies $10 est., JLC PCBs $5 est., DigiKey and Amazon free)",,,,25.00,
+Tax (Ontario HST 13%),,,,13.77,
+Grand total (USD),,,,119.68,
